@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Technology on Eli Isaac Profile</title>
+		<link>http://localhost:1313/categories/technology/</link>
+		<description>Recent content in Technology on Eli Isaac Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Journey from Chef to Data Analyst</title>
+				<link>http://localhost:1313/blogs/blog-1/</link>
+				<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/blog-1/</guid>
+				<description>&lt;h1 id=&#34;my-journey-as-a-chef&#34;&gt;My Journey as a Chef&lt;/h1&gt;&#xA;&lt;p&gt;I have been a chef for 21 years; this has led to many unique opportunities. From moving to Vancouver from New Brunswick when I was only 20 and had no money to living in most major cities in Canada. Montreal, Toronto, Moncton, Halifax, Victoria among others; Montreal being my favorite.&lt;/p&gt;&#xA;&lt;p&gt;I even ended up in the Caribbean for a period! Beautiful place, but I don’t suggest living there unless you’re a millionaire!&#xA;This has given me a wide variety of skills and experiences, which led to the ownership of my own restaurant for a time. However, it didn’t work out but it gave me valuable career experience.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
