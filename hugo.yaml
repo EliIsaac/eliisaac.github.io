@@ -510,7 +510,7 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: true
+    # disableThemeToggle: false
     # defaultTheme: "dark" # light
 
   font:
@@ -587,14 +587,14 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.jpg"
+    image: "/images/eli.jpg"
     content: |-
-     I was a chef for 21 years and worked all over Canada and the Caribbean. 
-     
-     I am studying Data Analytics at Trios/Eastern Colleges hoping to advance my career with in the hospitality industry.
+      I was a chef for 21 years and worked all over Canada and the Caribbean.
+
+      I am studying Data Analytics at Trios/Eastern Colleges hoping to advance my career within the hospitality industry.
     skills:
       enable: true
-      title: "Here are a few the softwares I've been working with recently:"
+      title: "Here are a few software tools I've been working with recently:"
       items:
         - "HUGO"
         - "VS Code"
@@ -679,7 +679,8 @@ params:
         jobs:
         - name: "Product Designer"
           date: "Feb 2016 - Mar 2017"
-          content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          content: |
+            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
   # Education
   education:

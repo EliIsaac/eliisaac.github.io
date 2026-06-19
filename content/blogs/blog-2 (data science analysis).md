@@ -1,9 +1,9 @@
 ---
-title: "My Journey from Chef to Data Analyst"
-date: "2026-06-11"
+title: "Data Science Analysis From an Ethics Perspective"
+date: "2026-06-19"
 draft: false
-tags: ["blog", "career", "data-analytics"]
-categories: ["Technology"]
+tags: []
+categories: ["Ethics"]
 ---
 
 # My Journey as a Chef

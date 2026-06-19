@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -23,11 +20,8 @@
                 href="http://localhost:1313/fr/blogs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/career/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -44,11 +38,11 @@
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/data-analytics/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blogs/blog-2-data-science-analysis/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -65,26 +59,11 @@
                 href="http://localhost:1313/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blogs/blog-1/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/ethics/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/blogs/blog-1-chef/</loc>
     <lastmod>2026-06-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2026-06-11T00:00:00+00:00</lastmod>
@@ -111,9 +90,6 @@
     <loc>http://localhost:1313/es/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/exemple/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
     <xhtml:link
@@ -128,9 +104,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mathjax/</loc>
@@ -149,24 +122,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/mathjax/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/math/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blogs/math/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/blogs/math/"
                 />
   </url><url>
     <loc>http://localhost:1313/es/blogs/math/</loc>
@@ -199,6 +154,24 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/syntaxe-markdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/es/gallery/</loc>
@@ -238,27 +211,6 @@
                 href="http://localhost:1313/fr/tags/%C3%A9chantillon/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blogs/markdown-syntax---backup/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/markdown-syntax/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blogs/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/blogs/markdown-syntax/"
-                />
-  </url><url>
     <loc>http://localhost:1313/tags/muestra/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
     <xhtml:link
@@ -272,35 +224,11 @@
                 href="http://localhost:1313/es/tags/muestra/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/es/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blogs/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/blogs/emoji-support/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
@@ -333,27 +261,6 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/support-des-emoji/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blogs/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blogs/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/blogs/placeholder-text/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
@@ -418,26 +325,5 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/contenu-enrichi/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blogs/rich-content/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blogs/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/blogs/rich-content/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/rich-content/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url>
 </urlset>
