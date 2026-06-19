@@ -587,7 +587,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "images/Eli.jpg"
+    image: "/static/images/Eli.jpg"
     content: |-
       I was a chef for 21 years and worked all over Canada and the Caribbean.
 
