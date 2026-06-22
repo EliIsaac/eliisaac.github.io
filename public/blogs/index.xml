@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Blogs on Eli Isaac Profile</title>
-		<link>http://localhost:1313/blogs/</link>
+		<link>https://EliIsaac.github.io/blogs/</link>
 		<description>Recent content in Blogs on Eli Isaac Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://EliIsaac.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ethical Perspectives: A Data Analysis</title>
-				<link>http://localhost:1313/blogs/blog-2-data-science-analysis/</link>
+				<link>https://EliIsaac.github.io/blogs/blog-2-data-science-analysis/</link>
 				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/blog-2-data-science-analysis/</guid>
+				<guid>https://EliIsaac.github.io/blogs/blog-2-data-science-analysis/</guid>
 				<description>&lt;h1 id=&#34;theoretical-scenario&#34;&gt;Theoretical Scenario&lt;/h1&gt;&#xA;&lt;p&gt;At the completion of a course, participants are given a survey of 10 questions. To perform the survey, participants access a URL in their web browser that is made available for a short period of time and requires that students log in with their username and password for the organization.&lt;/p&gt;&#xA;&lt;p&gt;The beginning of the survey prompts for the name of the course, but not their name. Instead, the survey description on this page indicates that all answers and the survey itself will remain anonymous.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My Journey from Chef to Data Analyst</title>
-				<link>http://localhost:1313/blogs/blog-1-chef/</link>
+				<link>https://EliIsaac.github.io/blogs/blog-1-chef/</link>
 				<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/blog-1-chef/</guid>
+				<guid>https://EliIsaac.github.io/blogs/blog-1-chef/</guid>
 				<description>&lt;h1 id=&#34;my-journey-as-a-chef&#34;&gt;My Journey as a Chef&lt;/h1&gt;&#xA;&lt;p&gt;I have been a chef for 21 years; this has led to many unique opportunities. From moving to Vancouver from New Brunswick when I was only 20 and had no money to living in most major cities in Canada. Montreal, Toronto, Moncton, Halifax, Victoria among others; Montreal being my favorite.&lt;/p&gt;&#xA;&lt;p&gt;I even ended up in the Caribbean for a period! Beautiful place, but I don’t suggest living there unless you’re a millionaire!&#xA;This has given me a wide variety of skills and experiences, which led to the ownership of my own restaurant for a time. However, it didn’t work out but it gave me valuable career experience.&lt;/p&gt;</description>
 			</item>
 	</channel>
