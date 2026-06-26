@@ -2,6 +2,7 @@
 title: "Ethical Perspectives: A Data Analysis"
 date: "2026-06-19"
 draft: false
+toc: false
 tags: []
 categories: ["Ethics"]
 ---

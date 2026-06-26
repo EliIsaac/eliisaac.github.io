@@ -19,11 +19,6 @@ languages:
           title: Blog posts
           url: /blogs
           weight: 1
-        # - identifier: gallery
-        #   name: Gallery
-        #   title: Image gallery
-        #   url: /gallery
-          weight: 2
   es:
     languageName: "Español"
     weight: 2
@@ -35,11 +30,6 @@ languages:
           title: Publicaciones del blog
           url: /es/blogs
           weight: 1
-        - identifier: gallery
-          name: Galería
-          title: Galería de imágenes
-          url: /es/gallery
-          weight: 2
     params:
       hero:
         intro: "Hola, mi nombre es"
@@ -241,11 +231,6 @@ languages:
           title: Articles de blog
           url: /fr/blogs
           weight: 1
-        - identifier: gallery
-          name: Galerie
-          title: Galerie d'images
-          url: /fr/gallery
-          weight: 2
     params:
       hero:
         intro: "Bonjour, je m'appelle"
@@ -464,11 +449,6 @@ markup:
 
 # Menus:
 #   main:
-    # - identifier: gallery
-    #   name: Gallery
-    #   title: Gallery
-    #   url: /gallery
-    #   weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -831,7 +811,7 @@ params:
 
   # Single pages like blog and post
   singlePages:
-    socialShare: true
+    socialShare: false
     readTime:
       enable: true
       content: "min read"

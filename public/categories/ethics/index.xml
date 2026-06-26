@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ethics on Eli Isaac Profile</title>
-		<link>https://EliIsaac.github.io/categories/ethics/</link>
+		<link>http://localhost:1313/categories/ethics/</link>
 		<description>Recent content in Ethics on Eli Isaac Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://EliIsaac.github.io/categories/ethics/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/ethics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ethical Perspectives: A Data Analysis</title>
-				<link>https://EliIsaac.github.io/blogs/blog-2-data-science-analysis/</link>
+				<link>http://localhost:1313/blogs/blog-2-data-science-analysis/</link>
 				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://EliIsaac.github.io/blogs/blog-2-data-science-analysis/</guid>
+				<guid>http://localhost:1313/blogs/blog-2-data-science-analysis/</guid>
 				<description>&lt;h1 id=&#34;theoretical-scenario&#34;&gt;Theoretical Scenario&lt;/h1&gt;&#xA;&lt;p&gt;At the completion of a course, participants are given a survey of 10 questions. To perform the survey, participants access a URL in their web browser that is made available for a short period of time and requires that students log in with their username and password for the organization.&lt;/p&gt;&#xA;&lt;p&gt;The beginning of the survey prompts for the name of the course, but not their name. Instead, the survey description on this page indicates that all answers and the survey itself will remain anonymous.&lt;/p&gt;</description>
 			</item>
 	</channel>

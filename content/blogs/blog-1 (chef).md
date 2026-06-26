@@ -2,6 +2,7 @@
 title: "My Journey from Chef to Data Analyst"
 date: "2026-06-11"
 draft: false
+toc: false
 tags: []
 categories: ["Technology"]
 ---
